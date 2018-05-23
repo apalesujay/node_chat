@@ -66,6 +66,7 @@ const authenticate = async username => {
             throw err;
         }
 
+        
         const chatManager = new ChatManager({
             instanceLocator,
             userId: username,
