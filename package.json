@@ -1,0 +1,39 @@
+{
+  "name": "node_chat",
+  "version": "1.0.0",
+  "description": "Node.js command-line chat app developed using Pusher Chatkit API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apalesujay/node_chat.git"
+  },
+  "keywords": [
+    "node.js",
+    "chatkit",
+    "pusher",
+    "chat",
+    "command_line",
+    "express"
+  ],
+  "author": "Sujay Apale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apalesujay/node_chat/issues"
+  },
+  "homepage": "https://github.com/apalesujay/node_chat#readme",
+  "dependencies": {
+    "@pusher/chatkit": "^0.7.12",
+    "@pusher/chatkit-server": "^0.12.1",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "jsdom": "^11.10.0",
+    "ora": "^2.1.0",
+    "prompt": "^1.0.0"
+  }
+}
