@@ -18,7 +18,7 @@ To create a new instance, navigate to the [Pusher Chatkit Dashboard](https://das
 
 ## Run Application
 
-To run this application you need to first start **SERVER** and then run **CLIENT**. You can run as many clients as you want. But before starting your application, install all the dependencies listed in ***package.json*** file. To install dependencies runfollowing command:
+To run this application you need to first start **SERVER** and then run **CLIENT**. You can run as many clients as you want. But before starting your application, install all the dependencies listed in ***package.json*** file. To install dependencies run following command:
 
 ```
 > npm install
