@@ -25,7 +25,7 @@ To run this application you need to first start **SERVER** and then run **CLIENT
 ```
 
 #### 1. For Server
-After you are done installing all the dependencies, run following commands start server:
+After you are done installing all the dependencies, run following command to start server:
 
 ```
 > node server.js
